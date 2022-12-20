@@ -1,0 +1,17 @@
+ 
+ 
+.disign{
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        margin: 10rem;
+    
+} 
+.cart{
+    float: right;
+    padding: 30px;
+}
+
+.cartshop{
+    
+    padding: 30px;
+}
